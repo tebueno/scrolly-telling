@@ -10,14 +10,21 @@
   width: 50vw;
   height: 33vh;
   background-color: grey;
+  position: absolute;
+  margin-left: auto;
+  right: 200px;
+}
+
+.graph.fixed {
   position: fixed;
   top: 200px;
-  right: 200px;
 }
 
 .intro {
   width: 100vw;
   height: 50vh;
+  background-color: blue;
+  text-align: center;
 }
 
 
